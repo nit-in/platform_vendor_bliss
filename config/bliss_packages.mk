@@ -57,6 +57,12 @@ PRODUCT_PACKAGES += \
     OmniStyle \
     OmniChange
     
+# Switch themes
+PRODUCT_PACKAGES += \
+    MD2Switch \
+    OnePlusSwitch \
+    StockSwitch
+    
 # Openssh
 PRODUCT_PACKAGES += \
     scp \
